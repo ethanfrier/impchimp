@@ -10,19 +10,22 @@
 	box-shadow: 2px -2px 2px 2px rgba(36,32,33,0.50);
 	background-color: rgba(36,32,33,0.70);
 	padding: 5%;
+	width: 500;
+	margin-bottom: 20px;
+	height: 80;
 }
 
 .stolen-frosty h1 {
 	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, sans-serif;
 	font-weight: 100;
-	font-size: 64px;
+	font-size: 28px;
 	color: white;
 }
 
 .stolen-frosty h2 {
 	font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, sans-serif;
 	font-weight: 100;
-	font-size: 36px;
+	font-size: 18px;
 	color: white;
 }
 

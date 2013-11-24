@@ -18,8 +18,8 @@ ActiveRecord::Schema.define(version: 20131124200223) do
 
   create_table "pizzas", force: true do |t|
     t.string   "name"
-    t.decimal  "lat",        precision: 7, scale: 0
-    t.decimal  "lng",        precision: 7, scale: 0
+    t.decimal  "lat",        precision: 15, scale: 10
+    t.decimal  "lng",        precision: 15, scale: 10
     t.datetime "created_at"
     t.datetime "updated_at"
   end
